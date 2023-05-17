@@ -1,3 +1,3 @@
-# tudoo
+# Tudoo
 
-A new Flutter project.
+A new To-Do app built using Flutter with a minimalistic UI.
